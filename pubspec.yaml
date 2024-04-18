@@ -1,0 +1,64 @@
+name: spotify_clone_with_flutter_firebase_and_audio_handler
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audio_handler:
+    path: packages/audio_handler
+  core: 
+    path: packages/core
+  db_client: 
+    path: packages/db_client
+  firebase_core: ^2.28.0
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.5
+  audio_service: ^0.18.13
+  rxdart: ^0.27.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+
+assets:
+  - assets/songs
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
