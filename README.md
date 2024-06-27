@@ -2,7 +2,6 @@
 
 This project show you how to create a simple Spotify look-alike app. The app enables users to play songs using the `just_audio` AudioPlayer. The playback continues as the app is in background mode via the integration with `audio_service` library. 
 
-This project is developed by maxonflutter / [atomsbox.com](https://atomsbox.com) . Feel free to provide feedback or suggest improvements via GitHub.
 
 ## Features:
 - Flutter UI: Two screens with playlists and songs
